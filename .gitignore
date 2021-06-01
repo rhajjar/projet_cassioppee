@@ -1,6 +1,14 @@
 # Pycharm and jupyter
 .idea
 .DS_Store
+.ipynb_checkpoints
 
 # data
 data
+
+# Python virtual env
+env
+
+# heavy files
+*.h5
+*.hdf5

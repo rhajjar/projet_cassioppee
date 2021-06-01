@@ -1,0 +1,2 @@
+Le notebook imagette contient le code utilisé pour extraire les imagettes de cellules
+Le notebook code contient le code utilisé pour générer l ensemble d'apprentissage, entrainer le modèle unet, le tester et comparer avec le modèle de nicolas
