@@ -7,7 +7,7 @@ libraries/__pycache__
 
 # data
 data
-
+data.zip
 
 # Python virtual env
 env
@@ -15,3 +15,4 @@ env
 # heavy files
 *.h5
 *.hdf5
+
