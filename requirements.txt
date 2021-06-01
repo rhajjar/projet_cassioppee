@@ -8,3 +8,4 @@ tensorflow
 mpl-toolkits.clifford
 natsort
 glob2
+LightPipes
