@@ -2,9 +2,12 @@
 .idea
 .DS_Store
 .ipynb_checkpoints
+libraries/__pycache__
+*.pyc
 
 # data
 data
+
 
 # Python virtual env
 env
