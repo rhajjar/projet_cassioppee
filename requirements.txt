@@ -9,3 +9,5 @@ mpl-toolkits.clifford
 natsort
 glob2
 LightPipes
+pyFFTW
+gradient-optimizers
